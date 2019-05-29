@@ -12,4 +12,5 @@ RUN pip install uvloop
 RUN pip install websockets
 RUN pip install aioredis
 RUN pip install pandas numpy
+RUN pip install arctic
 RUN pip install https://github.com/sammchardy/python-binance/archive/feature/asyncio.zip
