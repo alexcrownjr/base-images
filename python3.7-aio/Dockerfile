@@ -13,6 +13,7 @@ RUN pip install cython
 
 RUN pip install -U setuptools pip
 
+RUN apk add --no-cache bash
 
 
 RUN pip install uvloop
