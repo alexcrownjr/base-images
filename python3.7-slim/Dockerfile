@@ -1,6 +1,6 @@
 FROM python:3.7.3-stretch
 
-RUN apt-get install build-essential libffi-dev openssl-dev musl-dev python3-dev
+#RUN apt-get install build-essential libffi-dev openssl-dev musl-dev python3-dev
 
 RUN pip install cython
 
