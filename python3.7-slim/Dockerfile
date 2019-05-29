@@ -11,3 +11,4 @@ RUN pip install -U setuptools pip
 RUN pip install uvloop
 RUN pip install websockets
 RUN pip install aioredis
+RUN pip install pandas numpy
