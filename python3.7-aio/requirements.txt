@@ -1,0 +1,5 @@
+uvloop
+websockets
+aioredis
+sqlalchemy
+aiomisc[uvloop]
