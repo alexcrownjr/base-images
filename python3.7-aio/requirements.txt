@@ -3,3 +3,6 @@ websockets
 aioredis
 sqlalchemy
 aiomisc[uvloop]
+pytest
+git+https://github.com/alexcrownjr/common_lib.git
+git+https://github.com/sammchardy/python-binance.git@feature/asyncio
